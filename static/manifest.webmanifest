@@ -1,0 +1,15 @@
+{
+  "name": "Maisa & João",
+  "short_name": "Casamento",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F3",
+  "theme_color": "#2F4A3A",
+  "icons": [
+    {
+      "src": "/uploads/monograma-mj.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

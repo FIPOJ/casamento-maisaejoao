@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+mercadopago
+python-dotenv
+sqlalchemy
+pydantic
+email-validator
+python-multipart
